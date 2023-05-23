@@ -1,0 +1,99 @@
+body{
+    margin-left:240px;
+    margin-right: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black
+    line-height: 1.6;
+    background-color:lightgrey; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div{
+    padding: 20px;
+    color: snow;
+}
+
+.card{
+    width: 950px;
+    padding: 20px;
+    background-color: tan;
+    border-radius: 50px;
+    float: left;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.card img{
+    float: left;
+    margin: 20px;
+}
+
+.button{
+    text-decoration: none;
+    background-color:peru;
+    color: #FFF;
+    padding: 15px;
+    border: 5px solid;
+    border-radius: 15px;
+    font-weight: bold;
+    float: right;
+    margin-top: 88px;
+}
+
+.link{
+    margin-top: 20px;
+    text-align: right;  
+}
+
+p{
+    margin-top: 50px;
+}
+.pop{
+clear: both;
+display: block;
+text-align: center;
+margin-top: 10px;
+}
+
+.indicL{
+    text-decoration: none;
+    background-color:green;
+    color: #FFF;
+    padding: 15px;
+    border: 5px solid;
+    border-radius: 15px;
+    font-weight: bold;
+    float: right;
+    margin-top: 88px;
+    margin-right: 10px;
+    
+}
+
+.indic12{
+    text-decoration: none;
+    background-color:rgb(244, 195, 0);
+    color: #FFF;
+    padding: 15px;
+    border: 5px solid;
+    border-radius: 15px;
+    font-weight: bold;
+    float: right;
+    margin-top: 88px;
+    margin-right: 10px;
+}
+
+.indic16{
+    text-decoration: none;
+    background-color:red;
+    color: #FFF;
+    padding: 15px;
+    border: 5px solid;
+    border-radius: 15px;
+    font-weight: bold;
+    float: right;
+    margin-top: 88px;
+    margin-right: 10px;
+}
+
